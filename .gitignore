@@ -169,3 +169,8 @@ model_path/*
 model_path/
 model_path
 model_path*
+
+data/chromadb/
+data/chromadb/*
+data/chromadb*
+~*
