@@ -174,3 +174,4 @@ data/chromadb/
 data/chromadb/*
 data/chromadb*
 ~*
+*.keras
